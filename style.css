@@ -1,0 +1,10 @@
+.links > .left {
+    text-align: left;
+    display: inline-flexbox;
+}
+
+.links > .middle{
+    justify-content: ;
+    display: inline-flexbox;
+    
+}
