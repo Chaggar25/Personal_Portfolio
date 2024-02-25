@@ -1,10 +1,5 @@
-.links > .left {
-    text-align: left;
-    display: inline-flexbox;
-}
-
-.links > .middle{
-    justify-content: ;
-    display: inline-flexbox;
-    
+.sumbox{
+    width: 1000px;
+    height: 400px;
+    border-radius: 30px;
 }
